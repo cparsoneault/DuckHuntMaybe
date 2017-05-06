@@ -1,0 +1,12 @@
+.dogAnim {
+  width: 124px; height: 116px;
+  background-image: url(../img/duckhunt_all.png);
+  background-repeat: no-repeat;
+}
+
+.duckAnim{
+  width: 75px; height: 75px;
+  background-position: 0px -230px;
+  background-image: url(../img/duckhunt_all.png);
+  background-repeat: no-repeat;
+}
